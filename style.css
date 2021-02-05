@@ -1,0 +1,56 @@
+.Title{
+    text-align: center;
+    color:#FFFFFF;
+    background-color:#64b6d1;
+    margin-bottom:-5px;
+    padding: 20px ;
+}
+a:link{
+    color:cyan
+}
+a:visited{
+    color:lightgreen;
+}
+.Chameleon{
+    text-align: center;
+    background-color:#add8e6;
+    padding: 30px;
+    padding-bottom:125px;
+    margin-top: 100px;
+    margin-right: 400px;
+    margin-left: 400px;
+    position:relative;
+    color:#FFFFFF;
+}
+.Chameleon p{
+    position:absolute;
+    top:75%;
+    left:50%;
+    transform:translate(-50%, -30%);
+    opacity:0;
+}
+.Chameleon:hover p{
+    opacity:1;
+}
+
+.Camel{
+    text-align: center;
+    background-color:#add8e6;
+    padding: 30px;
+    padding-bottom:125px;
+    margin-top: 100px;
+    margin-right: 400px;
+    margin-left: 400px;
+    position:relative;
+    color:#FFFFFF;
+}
+.Camel p{
+    position:absolute;
+    top:75%;
+    left:50%;
+    transform:translate(-50%, -30%);
+    opacity:0;
+}
+.Camel:hover p{
+    opacity:1;
+}
