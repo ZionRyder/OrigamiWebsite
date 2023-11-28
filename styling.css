@@ -1,0 +1,28 @@
+button{
+    color:white;
+    font-size:.3in;
+    border-color:transparent;
+    background-color:transparent;
+    outline-style:solid;
+    outline-color:white;
+    margin-left:.3in;
+   } 
+   a{
+    color:white;
+   }
+   .MainTitle {
+     text-align:center; 
+     color:#ffffff; 
+     font-style:italic; 
+     font-family:'Times New Roman', Times, serif; 
+     padding-top: 1in; 
+     font-size:1in;
+}
+.SubMainTitle {
+     text-align:center; 
+     color:#ffffff; 
+     font-style:italic; 
+     font-family:'Times New Roman', Times, serif; 
+     padding-top: 1in; 
+     font-size:1in;
+}
